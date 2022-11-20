@@ -1,6 +1,14 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Jesper Kawuma",
+  "description": "Learning backend API with freecode camp",
+  "keywords": [
+    "learning",
+    "freecodecamp",
+    "nodeJs"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
   },
